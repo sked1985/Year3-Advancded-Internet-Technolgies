@@ -1,0 +1,27 @@
+﻿modalBackground {
+    position:absolute;
+    z-index:6000 !important;
+    top:0px;
+    left:0px;
+    background-color:#b200ff;
+    filter:alpha(opacity=60);
+    -moz-opacity:0.6;
+    opacity:0.6;
+}
+
+.modalPopup {
+background-color:#0ff;
+vertical-align:middle;
+border-width:3px;
+border-style:solid;
+border-color:#b200ff;
+padding:5px;
+width:300px;
+height:100px;
+z-index:6001 !important;
+
+
+
+
+
+}

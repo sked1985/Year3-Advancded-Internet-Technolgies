@@ -1,0 +1,179 @@
+H:\Advanced Internet technologies\MusicLibray\MusicLibray\bin\MusicLibray.dll
+H:\Advanced Internet technologies\MusicLibray\MusicLibray\bin\MusicLibray.pdb
+H:\Advanced Internet technologies\MusicLibray\MusicLibray\bin\Antlr3.Runtime.dll
+H:\Advanced Internet technologies\MusicLibray\MusicLibray\bin\AspNet.ScriptManager.jQuery.dll
+H:\Advanced Internet technologies\MusicLibray\MusicLibray\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+H:\Advanced Internet technologies\MusicLibray\MusicLibray\bin\DotNetOpenAuth.AspNet.dll
+H:\Advanced Internet technologies\MusicLibray\MusicLibray\bin\DotNetOpenAuth.Core.dll
+H:\Advanced Internet technologies\MusicLibray\MusicLibray\bin\DotNetOpenAuth.OAuth.Consumer.dll
+H:\Advanced Internet technologies\MusicLibray\MusicLibray\bin\DotNetOpenAuth.OAuth.dll
+H:\Advanced Internet technologies\MusicLibray\MusicLibray\bin\DotNetOpenAuth.OpenId.dll
+H:\Advanced Internet technologies\MusicLibray\MusicLibray\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+H:\Advanced Internet technologies\MusicLibray\MusicLibray\bin\EntityFramework.dll
+H:\Advanced Internet technologies\MusicLibray\MusicLibray\bin\Microsoft.AspNet.FriendlyUrls.dll
+H:\Advanced Internet technologies\MusicLibray\MusicLibray\bin\Microsoft.AspNet.Membership.OpenAuth.dll
+H:\Advanced Internet technologies\MusicLibray\MusicLibray\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+H:\Advanced Internet technologies\MusicLibray\MusicLibray\bin\Microsoft.ScriptManager.MSAjax.dll
+H:\Advanced Internet technologies\MusicLibray\MusicLibray\bin\Microsoft.ScriptManager.WebForms.dll
+H:\Advanced Internet technologies\MusicLibray\MusicLibray\bin\Microsoft.Web.Infrastructure.dll
+H:\Advanced Internet technologies\MusicLibray\MusicLibray\bin\System.Web.Optimization.dll
+H:\Advanced Internet technologies\MusicLibray\MusicLibray\bin\System.Web.Providers.dll
+H:\Advanced Internet technologies\MusicLibray\MusicLibray\bin\WebGrease.dll
+H:\Advanced Internet technologies\MusicLibray\MusicLibray\bin\EntityFramework.xml
+H:\Advanced Internet technologies\MusicLibray\MusicLibray\bin\DotNetOpenAuth.Core.xml
+H:\Advanced Internet technologies\MusicLibray\MusicLibray\bin\DotNetOpenAuth.OAuth.xml
+H:\Advanced Internet technologies\MusicLibray\MusicLibray\bin\DotNetOpenAuth.OAuth.Consumer.xml
+H:\Advanced Internet technologies\MusicLibray\MusicLibray\bin\DotNetOpenAuth.OpenId.xml
+H:\Advanced Internet technologies\MusicLibray\MusicLibray\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+H:\Advanced Internet technologies\MusicLibray\MusicLibray\bin\DotNetOpenAuth.AspNet.xml
+H:\Advanced Internet technologies\MusicLibray\MusicLibray\bin\Microsoft.AspNet.Membership.OpenAuth.xml
+H:\Advanced Internet technologies\MusicLibray\MusicLibray\bin\Microsoft.AspNet.FriendlyUrls.xml
+H:\Advanced Internet technologies\MusicLibray\MusicLibray\obj\Debug\MusicLibray.dll
+H:\Advanced Internet technologies\MusicLibray\MusicLibray\obj\Debug\MusicLibray.pdb
+H:\Advanced Internet technologies\MusicLibray\MusicLibray\obj\Debug\MusicLibray.csprojResolveAssemblyReference.cache
+H:\Advanced Internet technologies\MusicLibray\MusicLibray\bin\Microsoft.WindowsAzure.Storage.dll
+H:\Advanced Internet technologies\MusicLibray\MusicLibray\bin\Microsoft.WindowsAzure.Storage.xml
+H:\Advanced Internet technologies\MusicLibray\MusicLibray\bin\AjaxControlToolkit.dll
+H:\Advanced Internet technologies\MusicLibray\MusicLibray\bin\HtmlAgilityPack.dll
+H:\Advanced Internet technologies\MusicLibray\MusicLibray\bin\AjaxMin.dll
+H:\Advanced Internet technologies\MusicLibray\MusicLibray\bin\Microsoft.Data.OData.dll
+H:\Advanced Internet technologies\MusicLibray\MusicLibray\bin\Microsoft.Data.Edm.dll
+H:\Advanced Internet technologies\MusicLibray\MusicLibray\bin\System.Spatial.dll
+H:\Advanced Internet technologies\MusicLibray\MusicLibray\bin\AjaxControlToolkit.pdb
+H:\Advanced Internet technologies\MusicLibray\MusicLibray\bin\Microsoft.Data.OData.xml
+H:\Advanced Internet technologies\MusicLibray\MusicLibray\bin\Microsoft.Data.Edm.xml
+H:\Advanced Internet technologies\MusicLibray\MusicLibray\bin\System.Spatial.xml
+H:\Advanced Internet technologies\MusicLibray\MusicLibray\bin\ar\AjaxControlToolkit.resources.dll
+H:\Advanced Internet technologies\MusicLibray\MusicLibray\bin\cs\AjaxControlToolkit.resources.dll
+H:\Advanced Internet technologies\MusicLibray\MusicLibray\bin\de\AjaxControlToolkit.resources.dll
+H:\Advanced Internet technologies\MusicLibray\MusicLibray\bin\es\AjaxControlToolkit.resources.dll
+H:\Advanced Internet technologies\MusicLibray\MusicLibray\bin\fr\AjaxControlToolkit.resources.dll
+H:\Advanced Internet technologies\MusicLibray\MusicLibray\bin\he\AjaxControlToolkit.resources.dll
+H:\Advanced Internet technologies\MusicLibray\MusicLibray\bin\hi\AjaxControlToolkit.resources.dll
+H:\Advanced Internet technologies\MusicLibray\MusicLibray\bin\it\AjaxControlToolkit.resources.dll
+H:\Advanced Internet technologies\MusicLibray\MusicLibray\bin\ja\AjaxControlToolkit.resources.dll
+H:\Advanced Internet technologies\MusicLibray\MusicLibray\bin\ko\AjaxControlToolkit.resources.dll
+H:\Advanced Internet technologies\MusicLibray\MusicLibray\bin\nl\AjaxControlToolkit.resources.dll
+H:\Advanced Internet technologies\MusicLibray\MusicLibray\bin\pl\AjaxControlToolkit.resources.dll
+H:\Advanced Internet technologies\MusicLibray\MusicLibray\bin\pt\AjaxControlToolkit.resources.dll
+H:\Advanced Internet technologies\MusicLibray\MusicLibray\bin\ru\AjaxControlToolkit.resources.dll
+H:\Advanced Internet technologies\MusicLibray\MusicLibray\bin\tr-TR\AjaxControlToolkit.resources.dll
+H:\Advanced Internet technologies\MusicLibray\MusicLibray\bin\zh-CHS\AjaxControlToolkit.resources.dll
+H:\Advanced Internet technologies\MusicLibray\MusicLibray\bin\zh-CHT\AjaxControlToolkit.resources.dll
+H:\Advanced Internet technologies\MusicLibray\MusicLibray\bin\de\Microsoft.Data.OData.resources.dll
+H:\Advanced Internet technologies\MusicLibray\MusicLibray\bin\es\Microsoft.Data.OData.resources.dll
+H:\Advanced Internet technologies\MusicLibray\MusicLibray\bin\fr\Microsoft.Data.OData.resources.dll
+H:\Advanced Internet technologies\MusicLibray\MusicLibray\bin\it\Microsoft.Data.OData.resources.dll
+H:\Advanced Internet technologies\MusicLibray\MusicLibray\bin\ja\Microsoft.Data.OData.resources.dll
+H:\Advanced Internet technologies\MusicLibray\MusicLibray\bin\ko\Microsoft.Data.OData.resources.dll
+H:\Advanced Internet technologies\MusicLibray\MusicLibray\bin\ru\Microsoft.Data.OData.resources.dll
+H:\Advanced Internet technologies\MusicLibray\MusicLibray\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+H:\Advanced Internet technologies\MusicLibray\MusicLibray\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+H:\Advanced Internet technologies\MusicLibray\MusicLibray\bin\de\Microsoft.Data.Edm.resources.dll
+H:\Advanced Internet technologies\MusicLibray\MusicLibray\bin\es\Microsoft.Data.Edm.resources.dll
+H:\Advanced Internet technologies\MusicLibray\MusicLibray\bin\fr\Microsoft.Data.Edm.resources.dll
+H:\Advanced Internet technologies\MusicLibray\MusicLibray\bin\it\Microsoft.Data.Edm.resources.dll
+H:\Advanced Internet technologies\MusicLibray\MusicLibray\bin\ja\Microsoft.Data.Edm.resources.dll
+H:\Advanced Internet technologies\MusicLibray\MusicLibray\bin\ko\Microsoft.Data.Edm.resources.dll
+H:\Advanced Internet technologies\MusicLibray\MusicLibray\bin\ru\Microsoft.Data.Edm.resources.dll
+H:\Advanced Internet technologies\MusicLibray\MusicLibray\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+H:\Advanced Internet technologies\MusicLibray\MusicLibray\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+H:\Advanced Internet technologies\MusicLibray\MusicLibray\bin\de\System.Spatial.resources.dll
+H:\Advanced Internet technologies\MusicLibray\MusicLibray\bin\es\System.Spatial.resources.dll
+H:\Advanced Internet technologies\MusicLibray\MusicLibray\bin\fr\System.Spatial.resources.dll
+H:\Advanced Internet technologies\MusicLibray\MusicLibray\bin\it\System.Spatial.resources.dll
+H:\Advanced Internet technologies\MusicLibray\MusicLibray\bin\ja\System.Spatial.resources.dll
+H:\Advanced Internet technologies\MusicLibray\MusicLibray\bin\ko\System.Spatial.resources.dll
+H:\Advanced Internet technologies\MusicLibray\MusicLibray\bin\ru\System.Spatial.resources.dll
+H:\Advanced Internet technologies\MusicLibray\MusicLibray\bin\zh-Hans\System.Spatial.resources.dll
+H:\Advanced Internet technologies\MusicLibray\MusicLibray\bin\zh-Hant\System.Spatial.resources.dll
+C:\Users\frank\Desktop\Barry\x11103701\MusicLibray\MusicLibray\bin\MusicLibray.dll.config
+C:\Users\frank\Desktop\Barry\x11103701\MusicLibray\MusicLibray\bin\MusicLibray.dll
+C:\Users\frank\Desktop\Barry\x11103701\MusicLibray\MusicLibray\bin\MusicLibray.pdb
+C:\Users\frank\Desktop\Barry\x11103701\MusicLibray\MusicLibray\bin\AjaxControlToolkit.dll
+C:\Users\frank\Desktop\Barry\x11103701\MusicLibray\MusicLibray\bin\Antlr3.Runtime.dll
+C:\Users\frank\Desktop\Barry\x11103701\MusicLibray\MusicLibray\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\frank\Desktop\Barry\x11103701\MusicLibray\MusicLibray\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+C:\Users\frank\Desktop\Barry\x11103701\MusicLibray\MusicLibray\bin\DotNetOpenAuth.AspNet.dll
+C:\Users\frank\Desktop\Barry\x11103701\MusicLibray\MusicLibray\bin\DotNetOpenAuth.Core.dll
+C:\Users\frank\Desktop\Barry\x11103701\MusicLibray\MusicLibray\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Users\frank\Desktop\Barry\x11103701\MusicLibray\MusicLibray\bin\DotNetOpenAuth.OAuth.dll
+C:\Users\frank\Desktop\Barry\x11103701\MusicLibray\MusicLibray\bin\DotNetOpenAuth.OpenId.dll
+C:\Users\frank\Desktop\Barry\x11103701\MusicLibray\MusicLibray\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Users\frank\Desktop\Barry\x11103701\MusicLibray\MusicLibray\bin\EntityFramework.dll
+C:\Users\frank\Desktop\Barry\x11103701\MusicLibray\MusicLibray\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\frank\Desktop\Barry\x11103701\MusicLibray\MusicLibray\bin\Microsoft.AspNet.Membership.OpenAuth.dll
+C:\Users\frank\Desktop\Barry\x11103701\MusicLibray\MusicLibray\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\frank\Desktop\Barry\x11103701\MusicLibray\MusicLibray\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\frank\Desktop\Barry\x11103701\MusicLibray\MusicLibray\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\frank\Desktop\Barry\x11103701\MusicLibray\MusicLibray\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\frank\Desktop\Barry\x11103701\MusicLibray\MusicLibray\bin\System.Web.Optimization.dll
+C:\Users\frank\Desktop\Barry\x11103701\MusicLibray\MusicLibray\bin\System.Web.Providers.dll
+C:\Users\frank\Desktop\Barry\x11103701\MusicLibray\MusicLibray\bin\WebGrease.dll
+C:\Users\frank\Desktop\Barry\x11103701\MusicLibray\MusicLibray\bin\Microsoft.WindowsAzure.Storage.dll
+C:\Users\frank\Desktop\Barry\x11103701\MusicLibray\MusicLibray\bin\HtmlAgilityPack.dll
+C:\Users\frank\Desktop\Barry\x11103701\MusicLibray\MusicLibray\bin\AjaxMin.dll
+C:\Users\frank\Desktop\Barry\x11103701\MusicLibray\MusicLibray\bin\Microsoft.Data.OData.dll
+C:\Users\frank\Desktop\Barry\x11103701\MusicLibray\MusicLibray\bin\Microsoft.Data.Edm.dll
+C:\Users\frank\Desktop\Barry\x11103701\MusicLibray\MusicLibray\bin\System.Spatial.dll
+C:\Users\frank\Desktop\Barry\x11103701\MusicLibray\MusicLibray\bin\AjaxControlToolkit.pdb
+C:\Users\frank\Desktop\Barry\x11103701\MusicLibray\MusicLibray\bin\EntityFramework.xml
+C:\Users\frank\Desktop\Barry\x11103701\MusicLibray\MusicLibray\bin\DotNetOpenAuth.Core.xml
+C:\Users\frank\Desktop\Barry\x11103701\MusicLibray\MusicLibray\bin\DotNetOpenAuth.OAuth.xml
+C:\Users\frank\Desktop\Barry\x11103701\MusicLibray\MusicLibray\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Users\frank\Desktop\Barry\x11103701\MusicLibray\MusicLibray\bin\DotNetOpenAuth.OpenId.xml
+C:\Users\frank\Desktop\Barry\x11103701\MusicLibray\MusicLibray\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Users\frank\Desktop\Barry\x11103701\MusicLibray\MusicLibray\bin\DotNetOpenAuth.AspNet.xml
+C:\Users\frank\Desktop\Barry\x11103701\MusicLibray\MusicLibray\bin\Microsoft.AspNet.Membership.OpenAuth.xml
+C:\Users\frank\Desktop\Barry\x11103701\MusicLibray\MusicLibray\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\frank\Desktop\Barry\x11103701\MusicLibray\MusicLibray\bin\Microsoft.WindowsAzure.Storage.xml
+C:\Users\frank\Desktop\Barry\x11103701\MusicLibray\MusicLibray\bin\Microsoft.Data.OData.xml
+C:\Users\frank\Desktop\Barry\x11103701\MusicLibray\MusicLibray\bin\Microsoft.Data.Edm.xml
+C:\Users\frank\Desktop\Barry\x11103701\MusicLibray\MusicLibray\bin\System.Spatial.xml
+C:\Users\frank\Desktop\Barry\x11103701\MusicLibray\MusicLibray\bin\ar\AjaxControlToolkit.resources.dll
+C:\Users\frank\Desktop\Barry\x11103701\MusicLibray\MusicLibray\bin\cs\AjaxControlToolkit.resources.dll
+C:\Users\frank\Desktop\Barry\x11103701\MusicLibray\MusicLibray\bin\de\AjaxControlToolkit.resources.dll
+C:\Users\frank\Desktop\Barry\x11103701\MusicLibray\MusicLibray\bin\es\AjaxControlToolkit.resources.dll
+C:\Users\frank\Desktop\Barry\x11103701\MusicLibray\MusicLibray\bin\fr\AjaxControlToolkit.resources.dll
+C:\Users\frank\Desktop\Barry\x11103701\MusicLibray\MusicLibray\bin\he\AjaxControlToolkit.resources.dll
+C:\Users\frank\Desktop\Barry\x11103701\MusicLibray\MusicLibray\bin\hi\AjaxControlToolkit.resources.dll
+C:\Users\frank\Desktop\Barry\x11103701\MusicLibray\MusicLibray\bin\it\AjaxControlToolkit.resources.dll
+C:\Users\frank\Desktop\Barry\x11103701\MusicLibray\MusicLibray\bin\ja\AjaxControlToolkit.resources.dll
+C:\Users\frank\Desktop\Barry\x11103701\MusicLibray\MusicLibray\bin\ko\AjaxControlToolkit.resources.dll
+C:\Users\frank\Desktop\Barry\x11103701\MusicLibray\MusicLibray\bin\nl\AjaxControlToolkit.resources.dll
+C:\Users\frank\Desktop\Barry\x11103701\MusicLibray\MusicLibray\bin\pl\AjaxControlToolkit.resources.dll
+C:\Users\frank\Desktop\Barry\x11103701\MusicLibray\MusicLibray\bin\pt\AjaxControlToolkit.resources.dll
+C:\Users\frank\Desktop\Barry\x11103701\MusicLibray\MusicLibray\bin\ru\AjaxControlToolkit.resources.dll
+C:\Users\frank\Desktop\Barry\x11103701\MusicLibray\MusicLibray\bin\tr-TR\AjaxControlToolkit.resources.dll
+C:\Users\frank\Desktop\Barry\x11103701\MusicLibray\MusicLibray\bin\zh-CHS\AjaxControlToolkit.resources.dll
+C:\Users\frank\Desktop\Barry\x11103701\MusicLibray\MusicLibray\bin\zh-CHT\AjaxControlToolkit.resources.dll
+C:\Users\frank\Desktop\Barry\x11103701\MusicLibray\MusicLibray\bin\de\Microsoft.Data.OData.resources.dll
+C:\Users\frank\Desktop\Barry\x11103701\MusicLibray\MusicLibray\bin\es\Microsoft.Data.OData.resources.dll
+C:\Users\frank\Desktop\Barry\x11103701\MusicLibray\MusicLibray\bin\fr\Microsoft.Data.OData.resources.dll
+C:\Users\frank\Desktop\Barry\x11103701\MusicLibray\MusicLibray\bin\it\Microsoft.Data.OData.resources.dll
+C:\Users\frank\Desktop\Barry\x11103701\MusicLibray\MusicLibray\bin\ja\Microsoft.Data.OData.resources.dll
+C:\Users\frank\Desktop\Barry\x11103701\MusicLibray\MusicLibray\bin\ko\Microsoft.Data.OData.resources.dll
+C:\Users\frank\Desktop\Barry\x11103701\MusicLibray\MusicLibray\bin\ru\Microsoft.Data.OData.resources.dll
+C:\Users\frank\Desktop\Barry\x11103701\MusicLibray\MusicLibray\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Users\frank\Desktop\Barry\x11103701\MusicLibray\MusicLibray\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Users\frank\Desktop\Barry\x11103701\MusicLibray\MusicLibray\bin\de\Microsoft.Data.Edm.resources.dll
+C:\Users\frank\Desktop\Barry\x11103701\MusicLibray\MusicLibray\bin\es\Microsoft.Data.Edm.resources.dll
+C:\Users\frank\Desktop\Barry\x11103701\MusicLibray\MusicLibray\bin\fr\Microsoft.Data.Edm.resources.dll
+C:\Users\frank\Desktop\Barry\x11103701\MusicLibray\MusicLibray\bin\it\Microsoft.Data.Edm.resources.dll
+C:\Users\frank\Desktop\Barry\x11103701\MusicLibray\MusicLibray\bin\ja\Microsoft.Data.Edm.resources.dll
+C:\Users\frank\Desktop\Barry\x11103701\MusicLibray\MusicLibray\bin\ko\Microsoft.Data.Edm.resources.dll
+C:\Users\frank\Desktop\Barry\x11103701\MusicLibray\MusicLibray\bin\ru\Microsoft.Data.Edm.resources.dll
+C:\Users\frank\Desktop\Barry\x11103701\MusicLibray\MusicLibray\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Users\frank\Desktop\Barry\x11103701\MusicLibray\MusicLibray\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Users\frank\Desktop\Barry\x11103701\MusicLibray\MusicLibray\bin\de\System.Spatial.resources.dll
+C:\Users\frank\Desktop\Barry\x11103701\MusicLibray\MusicLibray\bin\es\System.Spatial.resources.dll
+C:\Users\frank\Desktop\Barry\x11103701\MusicLibray\MusicLibray\bin\fr\System.Spatial.resources.dll
+C:\Users\frank\Desktop\Barry\x11103701\MusicLibray\MusicLibray\bin\it\System.Spatial.resources.dll
+C:\Users\frank\Desktop\Barry\x11103701\MusicLibray\MusicLibray\bin\ja\System.Spatial.resources.dll
+C:\Users\frank\Desktop\Barry\x11103701\MusicLibray\MusicLibray\bin\ko\System.Spatial.resources.dll
+C:\Users\frank\Desktop\Barry\x11103701\MusicLibray\MusicLibray\bin\ru\System.Spatial.resources.dll
+C:\Users\frank\Desktop\Barry\x11103701\MusicLibray\MusicLibray\bin\zh-Hans\System.Spatial.resources.dll
+C:\Users\frank\Desktop\Barry\x11103701\MusicLibray\MusicLibray\bin\zh-Hant\System.Spatial.resources.dll
+C:\Users\frank\Desktop\Barry\x11103701\MusicLibray\MusicLibray\obj\Debug\MusicLibray.csprojResolveAssemblyReference.cache
+C:\Users\frank\Desktop\Barry\x11103701\MusicLibray\MusicLibray\obj\Debug\MusicLibray.dll
+C:\Users\frank\Desktop\Barry\x11103701\MusicLibray\MusicLibray\obj\Debug\MusicLibray.pdb

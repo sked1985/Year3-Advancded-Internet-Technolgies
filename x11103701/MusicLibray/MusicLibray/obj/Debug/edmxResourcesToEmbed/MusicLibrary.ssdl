@@ -1,0 +1,260 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="MusicLibrary.Store" Alias="Self" Provider="System.Data.SqlClient" ProviderManifestToken="2008" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityContainer Name="MusicLibraryStoreContainer">
+    <EntitySet Name="Albums" EntityType="MusicLibrary.Store.Albums" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="Bands" EntityType="MusicLibrary.Store.Bands" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="Countries" EntityType="MusicLibrary.Store.Countries" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="Labels" EntityType="MusicLibrary.Store.Labels" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="Genres" EntityType="MusicLibrary.Store.Genres" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="BandGenre" EntityType="MusicLibrary.Store.BandGenre" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="BandLabel" EntityType="MusicLibrary.Store.BandLabel" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="GenreLabel" EntityType="MusicLibrary.Store.GenreLabel" store:Type="Tables" Schema="dbo" />
+    <AssociationSet Name="AlbumBand" Association="MusicLibrary.Store.AlbumBand">
+      <End Role="Album" EntitySet="Albums" />
+      <End Role="Band" EntitySet="Bands" />
+    </AssociationSet>
+    <AssociationSet Name="BandCountry" Association="MusicLibrary.Store.BandCountry">
+      <End Role="Band" EntitySet="Bands" />
+      <End Role="Country" EntitySet="Countries" />
+    </AssociationSet>
+    <AssociationSet Name="FK_BandGenre_Band" Association="MusicLibrary.Store.FK_BandGenre_Band">
+      <End Role="Band" EntitySet="Bands" />
+      <End Role="BandGenre" EntitySet="BandGenre" />
+    </AssociationSet>
+    <AssociationSet Name="FK_BandGenre_Genre" Association="MusicLibrary.Store.FK_BandGenre_Genre">
+      <End Role="Genre" EntitySet="Genres" />
+      <End Role="BandGenre" EntitySet="BandGenre" />
+    </AssociationSet>
+    <AssociationSet Name="CountryLabel" Association="MusicLibrary.Store.CountryLabel">
+      <End Role="Country" EntitySet="Countries" />
+      <End Role="Label" EntitySet="Labels" />
+    </AssociationSet>
+    <AssociationSet Name="AlbumGenre" Association="MusicLibrary.Store.AlbumGenre">
+      <End Role="Album" EntitySet="Albums" />
+      <End Role="Genre" EntitySet="Genres" />
+    </AssociationSet>
+    <AssociationSet Name="FK_BandLabel_Band" Association="MusicLibrary.Store.FK_BandLabel_Band">
+      <End Role="Band" EntitySet="Bands" />
+      <End Role="BandLabel" EntitySet="BandLabel" />
+    </AssociationSet>
+    <AssociationSet Name="FK_BandLabel_Label" Association="MusicLibrary.Store.FK_BandLabel_Label">
+      <End Role="Label" EntitySet="Labels" />
+      <End Role="BandLabel" EntitySet="BandLabel" />
+    </AssociationSet>
+    <AssociationSet Name="AlbumLabel" Association="MusicLibrary.Store.AlbumLabel">
+      <End Role="Album" EntitySet="Albums" />
+      <End Role="Label" EntitySet="Labels" />
+    </AssociationSet>
+    <AssociationSet Name="FK_GenreLabel_Genre" Association="MusicLibrary.Store.FK_GenreLabel_Genre">
+      <End Role="Genre" EntitySet="Genres" />
+      <End Role="GenreLabel" EntitySet="GenreLabel" />
+    </AssociationSet>
+    <AssociationSet Name="FK_GenreLabel_Label" Association="MusicLibrary.Store.FK_GenreLabel_Label">
+      <End Role="Label" EntitySet="Labels" />
+      <End Role="GenreLabel" EntitySet="GenreLabel" />
+    </AssociationSet>
+  </EntityContainer>
+  <EntityType Name="Albums">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Name" Type="nvarchar(max)" Nullable="false" />
+    <Property Name="ReleaseDate" Type="datetime" Nullable="false" />
+    <Property Name="CoverImage" Type="nvarchar(max)" Nullable="false" />
+    <Property Name="Description" Type="nvarchar(max)" Nullable="false" />
+    <Property Name="Band_Id" Type="int" Nullable="false" />
+    <Property Name="Genre_Id" Type="int" Nullable="false" />
+    <Property Name="Label_Id" Type="int" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Bands">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Name" Type="nvarchar(max)" Nullable="false" />
+    <Property Name="GenreId" Type="int" Nullable="false" />
+    <Property Name="Country_Id" Type="int" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Countries">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Name" Type="nvarchar(max)" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Labels">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Name" Type="nvarchar(max)" Nullable="false" />
+    <Property Name="Address1" Type="nvarchar(max)" Nullable="false" />
+    <Property Name="Address2" Type="nvarchar(max)" Nullable="false" />
+    <Property Name="Address3" Type="nvarchar(max)" Nullable="false" />
+    <Property Name="CountryId" Type="int" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Genres">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Name" Type="nvarchar(max)" Nullable="false" />
+  </EntityType>
+  <EntityType Name="BandGenre">
+    <Key>
+      <PropertyRef Name="Bands1_Id" />
+      <PropertyRef Name="Genres_Id" />
+    </Key>
+    <Property Name="Bands1_Id" Type="int" Nullable="false" />
+    <Property Name="Genres_Id" Type="int" Nullable="false" />
+  </EntityType>
+  <EntityType Name="BandLabel">
+    <Key>
+      <PropertyRef Name="Bands_Id" />
+      <PropertyRef Name="Labels_Id" />
+    </Key>
+    <Property Name="Bands_Id" Type="int" Nullable="false" />
+    <Property Name="Labels_Id" Type="int" Nullable="false" />
+  </EntityType>
+  <EntityType Name="GenreLabel">
+    <Key>
+      <PropertyRef Name="Genres_Id" />
+      <PropertyRef Name="Labels_Id" />
+    </Key>
+    <Property Name="Genres_Id" Type="int" Nullable="false" />
+    <Property Name="Labels_Id" Type="int" Nullable="false" />
+  </EntityType>
+  <Association Name="AlbumBand">
+    <End Role="Album" Type="MusicLibrary.Store.Albums" Multiplicity="*" />
+    <End Role="Band" Type="MusicLibrary.Store.Bands" Multiplicity="1" />
+    <ReferentialConstraint>
+      <Principal Role="Band">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="Album">
+        <PropertyRef Name="Band_Id" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="BandCountry">
+    <End Role="Band" Type="MusicLibrary.Store.Bands" Multiplicity="*" />
+    <End Role="Country" Type="MusicLibrary.Store.Countries" Multiplicity="1" />
+    <ReferentialConstraint>
+      <Principal Role="Country">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="Band">
+        <PropertyRef Name="Country_Id" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="CountryLabel">
+    <End Role="Country" Type="MusicLibrary.Store.Countries" Multiplicity="1" />
+    <End Role="Label" Type="MusicLibrary.Store.Labels" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Country">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="Label">
+        <PropertyRef Name="CountryId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="AlbumGenre">
+    <End Role="Album" Type="MusicLibrary.Store.Albums" Multiplicity="*" />
+    <End Role="Genre" Type="MusicLibrary.Store.Genres" Multiplicity="1" />
+    <ReferentialConstraint>
+      <Principal Role="Genre">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="Album">
+        <PropertyRef Name="Genre_Id" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="AlbumLabel">
+    <End Role="Album" Type="MusicLibrary.Store.Albums" Multiplicity="*" />
+    <End Role="Label" Type="MusicLibrary.Store.Labels" Multiplicity="1" />
+    <ReferentialConstraint>
+      <Principal Role="Label">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="Album">
+        <PropertyRef Name="Label_Id" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_BandGenre_Band">
+    <End Role="Band" Type="MusicLibrary.Store.Bands" Multiplicity="1" />
+    <End Role="BandGenre" Type="MusicLibrary.Store.BandGenre" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Band">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="BandGenre">
+        <PropertyRef Name="Bands1_Id" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_BandGenre_Genre">
+    <End Role="BandGenre" Type="MusicLibrary.Store.BandGenre" Multiplicity="*" />
+    <End Role="Genre" Type="MusicLibrary.Store.Genres" Multiplicity="1" />
+    <ReferentialConstraint>
+      <Principal Role="Genre">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="BandGenre">
+        <PropertyRef Name="Genres_Id" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_BandLabel_Band">
+    <End Role="Band" Type="MusicLibrary.Store.Bands" Multiplicity="1" />
+    <End Role="BandLabel" Type="MusicLibrary.Store.BandLabel" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Band">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="BandLabel">
+        <PropertyRef Name="Bands_Id" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_BandLabel_Label">
+    <End Role="BandLabel" Type="MusicLibrary.Store.BandLabel" Multiplicity="*" />
+    <End Role="Label" Type="MusicLibrary.Store.Labels" Multiplicity="1" />
+    <ReferentialConstraint>
+      <Principal Role="Label">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="BandLabel">
+        <PropertyRef Name="Labels_Id" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_GenreLabel_Genre">
+    <End Role="Genre" Type="MusicLibrary.Store.Genres" Multiplicity="1" />
+    <End Role="GenreLabel" Type="MusicLibrary.Store.GenreLabel" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Genre">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="GenreLabel">
+        <PropertyRef Name="Genres_Id" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_GenreLabel_Label">
+    <End Role="GenreLabel" Type="MusicLibrary.Store.GenreLabel" Multiplicity="*" />
+    <End Role="Label" Type="MusicLibrary.Store.Labels" Multiplicity="1" />
+    <ReferentialConstraint>
+      <Principal Role="Label">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="GenreLabel">
+        <PropertyRef Name="Labels_Id" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+</Schema>
